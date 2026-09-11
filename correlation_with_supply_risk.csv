@@ -1,0 +1,14 @@
+,Correlation_with_Supply_Risk
+Supply_Risk_Flag,1.0
+Delay_Days,0.6626294802877709
+Supplier_Reliability_Score,0.047285063516318934
+Energy_Consumption_Joules,0.041935352783646726
+Available_Historical_Records,0.026172098518294253
+Parameter_Change_Magnitude,0.019000555575751213
+Quantity_Ordered,0.01891730370084509
+Order_Value_USD,-0.005562320511622514
+Data_Sharing_Consent,-0.008938369963719562
+Historical_Disruption_Count,-0.018498810378911202
+Communication_Cost_MB,-0.024963178539184876
+Federated_Round,-0.03004854973297239
+Dominant_Buyer_Flag,-0.031010896450594568

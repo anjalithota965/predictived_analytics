@@ -1,0 +1,57 @@
+
+SUPPLY CHAIN PREDICTIVE ANALYTICS ANALYSIS COMPLETED
+
+FILES GENERATED:
+
+DATA CLEANING
+-------------
+1. supply_chain_cleaned.csv
+2. missing_values.csv
+
+DESCRIPTIVE ANALYSIS
+--------------------
+3. descriptive_statistics.csv
+4. supply_risk_summary.csv
+5. supply_risk_distribution.png
+6. delay_days_distribution.png
+7. supplier_reliability_distribution.png
+8. disruption_types.png
+9. shipping_mode_distribution.png
+
+CORRELATION ANALYSIS
+--------------------
+10. correlation_matrix.csv
+11. correlation_with_supply_risk.csv
+12. correlation_heatmap.png
+
+REGRESSION ANALYSIS
+-------------------
+13. multiple_regression_results.csv
+14. regression_model_statistics.csv
+15. regression_model_summary.txt
+
+MACHINE LEARNING
+----------------
+16. model_comparison.csv
+17. logistic_regression_classification_report.txt
+18. decision_tree_classification_report.txt
+19. random_forest_classification_report.txt
+
+CONFUSION MATRICES
+------------------
+20. logistic_regression_confusion_matrix.png
+21. decision_tree_confusion_matrix.png
+22. random_forest_confusion_matrix.png
+
+MODEL VALIDATION
+----------------
+23. roc_curve_comparison.png
+24. cross_validation_results.csv
+
+FEATURE IMPORTANCE
+------------------
+25. random_forest_feature_importance.csv
+26. random_forest_feature_importance.png
+
+All results are stored in:
+supply_chain_analysis_results

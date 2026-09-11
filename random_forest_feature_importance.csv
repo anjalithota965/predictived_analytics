@@ -1,0 +1,9 @@
+Feature,Importance
+Energy_Consumption_Joules,0.1413060093546657
+Order_Value_USD,0.1321674535337524
+Parameter_Change_Magnitude,0.13061060931686755
+Available_Historical_Records,0.13048376525016112
+Communication_Cost_MB,0.12849081323343348
+Quantity_Ordered,0.12677948144424117
+Supplier_Reliability_Score,0.12157248666551382
+Historical_Disruption_Count,0.08858938120136488
